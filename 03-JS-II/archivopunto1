@@ -1,0 +1,4 @@
+//For: es uno de los tipos de bucles. sirve para repetir una accion la cantidad de veces necesarias hasta que se le indique que deje de hacerlo
+//&& es un operador logico que incluye a por lo menos dos expresiones, que dara true en el caso de que ambas sean verdadera. Si por lo menos una no lo es, nos arrojara false.
+// || es un operador logico que nos indicara true, en el caso que al menos una de las dos expresiones sea true. Solo cuando ambas sean false nos dara false.
+// ! es un operador logico de negacion. hace que nos devuelva el valor booleanto opuesto al real.
