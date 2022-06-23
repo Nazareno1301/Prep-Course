@@ -2,15 +2,14 @@ body{
     background-image: URL(https://thumbs.dreamstime.com/z/comida-r%C3%BAstica-en-fondo-de-madera-del-vintage-55811669.jpg);
     background-position: center;
     background-size: cover;
-    height: 100%;
-    width: 100%;
+    height: 99%;
+    width: 99%;
 }
 img{
     width: 200px;
     height: auto;
     margin:auto;
-    display: block;
-    border-radius: 15px; ;
+    border-radius: 15px; 
 }
 #thirdDiv{
     width: 500px;
@@ -18,6 +17,12 @@ img{
     background-color:rgb(175, 175, 175);
     padding:50px;
     border:5px solid rgb(240, 233, 233);
+    margin-top:50px;
+    margin-left: 300px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
 }
 .divclass{
     text-align: center;
